@@ -1,5 +1,5 @@
 # Discordbot-Impersonate-script
- Send a message as if it came from a different user
+ Send a message from the bot with the username and profile picture of a different user
 
 # Start using the bot
 
